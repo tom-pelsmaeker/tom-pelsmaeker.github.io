@@ -1,7 +1,7 @@
 ---
 title: "Effective Estimation of Deep Generative Language Models"
 collection: publications
-permalink: /publication/2019-18-04-effective-estimation
+permalink: /publication/2019-04-18-effective-estimation
 excerpt: 'Training VAEs with strong generators is hard. This paper offers some practical tips to overcome this difficulty.'
 date: 2019-18-04
 venue: 'Arxiv'

@@ -1,7 +1,7 @@
 ---
 title: "Effective Estimation of Deep Generative Models of Language"
 collection: publications
-permalink: /publication/2019-21-02-effective-estimation
+permalink: /publication/2019-02-21-effective-estimation
 excerpt: 'My masters thesis.'
 date: 2019-21-02
 venue: 'UvA'
