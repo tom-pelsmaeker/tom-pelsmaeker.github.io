@@ -3,7 +3,7 @@ title: "Effective Estimation of Deep Generative Language Models"
 collection: publications
 permalink: /publication/2019-04-18-effective-estimation
 excerpt: 'Training VAEs with strong generators is hard. This paper offers some practical tips to overcome this difficulty.'
-date: 2019-18-04
+date: 2019-04-18
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/pdf/1904.08194.pdf'
 citation: 'Pelsmaeker, T., and Aziz, W. (2019). Effective Estimation of Deep Generative Language Models. arXiv preprint arXiv:1904.08194.'
